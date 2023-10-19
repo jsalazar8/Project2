@@ -1,1 +1,83 @@
-#
+/*css for all pages*/
+#main-navbar {
+    background-color:dodgerblue;
+    overflow: hidden;
+}
+#navbar-container { 
+    float: left;
+    width: 100%;
+    position: relative;
+}
+  
+#main-navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 50%;
+    float: left;  
+}
+  
+#main-navbar ul li {
+    float: left;
+    position: relative;
+    right: 50%;
+    display: block;
+}
+  
+#main-navbar ul li a {
+    display: block;
+    padding: 10px 20px;
+    font-family: 'Roboto Slab', serif;
+    color: beige;
+    text-decoration: none;
+}
+  
+#main-navbar ul li a:hover {
+    background-color:#000;
+}
+  
+#onpage {
+    text-decoration: underline #fff;
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font size: 30px;
+    color: beige;
+}
+
+
+p {
+    margin:auto;
+    font-family:"Times New Roman", Times, serif;
+    color:beige
+}
+li {
+    color:beige
+}
+
+footer {
+    margin:auto;
+    font-family:"Times New Roman", Times, serif;
+    background-color: dodgerblue;
+    width: 100%;
+    height: 30px;
+    padding: 20px;
+}
+
+/*index.html css*/
+#indexbody {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 82%);
+}
+
+.indexh {
+    font-family: 'Roboto Slab', serif;
+    color:aliceblue
+}
+section box n have float :left
+/*aboutme.html css red */
+/*easportsfc.html css green*/
