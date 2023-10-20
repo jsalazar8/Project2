@@ -45,7 +45,6 @@
 h1{
   text-align: center;
   font-family: 'Roboto Slab', serif;
-  font size: 30px;
   color: beige;
 }
 
@@ -132,8 +131,8 @@ footer {
 }
 .aboutmeimg {
   display:block;
-  margin: left 0;;
-  margin: right 0;;
+  margin: left 0;
+  margin: right 0;
   width: 500px ;
   height: 250px;
   margin: 0 auto;
