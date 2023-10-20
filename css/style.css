@@ -73,11 +73,26 @@ footer {
     background: rgb(2, 0, 36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 82%);
 }
+#indexh1:hover{
+    transform:scale(1.5);
+}
+#indexsection {
+    padding: 20px;
+    background-color: rgb(0, 76, 255);
+    margin: 20px;
+    border-radius: 5px;
+}
+#indexsection:hover {
+    background-color: black;
+    transform:scale(.95);
+}
 
 .indexh {
     font-family: 'Roboto Slab', serif;
-    color:aliceblue
+    color:aliceblue 
 }
-section box n have float :left
+
+
+
 /*aboutme.html css red */
 /*easportsfc.html css green*/
