@@ -77,7 +77,7 @@ footer {
 #indexh1:hover{
   transform:scale(1.5);
 }
-#indexsection {
+.indexsection {
   padding: 20px;
   background-color: rgb(0, 76, 255);
   margin: 20px;
@@ -92,7 +92,7 @@ footer {
   font-family: 'Roboto Slab', serif;
   color:aliceblue 
 }
-#indexul {
+.indexul {
   list-style-type: none;
 }
 
@@ -145,3 +145,7 @@ footer {
 }
 
 /*easportsfc.html css green*/
+#easportfc24body {
+  background: rgb(0,36,3);
+  background: linear-gradient(90deg, rgba(0,36,3,0.9866071428571429) 0%, rgba(21,217,14,1) 78%);
+}
