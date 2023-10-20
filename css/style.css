@@ -95,7 +95,7 @@ footer {
   list-style-type: none;
 }
 
-/*aboutme.html css red */
+/*aboutme.html css*/
 #aboutmebody {
   background: rgb(2,0,36);
   background: linear-gradient(90deg, rgba(2,0,36,0.9866071428571429) 0%, rgba(255,5,5,1) 78%);
@@ -141,7 +141,7 @@ footer {
   transform: scale(1.2) rotate(360deg);
 }
 
-/*easportsfc.html css green*/
+/*easportsfc.html css */
 #easportsfc24body {
   background: rgb(0,36,3);
   background: linear-gradient(90deg, rgba(0,36,3,0.9866071428571429) 0%, rgba(21,217,14,1) 78%);
