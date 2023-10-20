@@ -131,8 +131,6 @@ footer {
 }
 .aboutmeimg {
   display:block;
-  margin: left 0;
-  margin: right 0;
   width: 500px ;
   height: 250px;
   margin: 0 auto;
@@ -153,6 +151,17 @@ footer {
   width: 960px;
 }
 
+#easportsfc24header {
+  display:block;
+  margin: 0 auto;
+  padding: 20px;
+  transition: transform 0.3s ease;
+}
+
+#easportsfc24header:hover{
+  transform: scale(1.2) rotate(360deg);  
+}
+
 #easportsfc24main {
   float: left;
   width: 650px;
@@ -168,4 +177,24 @@ footer {
 #easportsfc24footer {
   clear:left;
   padding: 15px;
+}
+
+.easportsfc24img{
+  display:block;
+  width: 500px ;
+  height: 250px;
+  margin: 0 auto;
+  padding: 20px;
+}  
+#easportsfc24iframe {
+  display:block;
+  width: 500px ;
+  height: 250px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.easportsfc24h {
+  font-family: 'Roboto Slab', serif;
+  color:blanchedalmond
 }
