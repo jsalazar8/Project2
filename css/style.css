@@ -144,7 +144,28 @@ footer {
 }
 
 /*easportsfc.html css green*/
-#easportfc24body {
+#easportsfc24body {
   background: rgb(0,36,3);
   background: linear-gradient(90deg, rgba(0,36,3,0.9866071428571429) 0%, rgba(21,217,14,1) 78%);
+}
+
+#easportsfc24wrapper {
+  width: 960px;
+}
+
+#easportsfc24main {
+  float: left;
+  width: 650px;
+  margin: 0 20px;
+}
+
+#easportsfc24extras {
+  float: left;
+  width: 250px;
+  margin: 0 20px 0 0;
+}
+
+#easportsfc24footer {
+  clear:left;
+  padding: 15px;
 }
